@@ -22,7 +22,7 @@ public class C02_DriverMethods {
 
     //    System.out.println(driver.getPageSource());                                  //getPageSource() acilan sayfanin kaynak kodlarini verir
 
-        System.out.println("Techproed window handle degeri : "+driver.getWindowHandle());                                                 //gidilen sayfanin handle(hashcode) degerini verir.bu handle degerini sayfalar arasi gecis icin
+        System.out.println("Techproed window handle degeri : "+driver.getWindowHandle());   //gidilen sayfanin handle(hashcode) degerini verir.bu handle degerini sayfalar arasi gecis icin
                                                                                        //kullanilir
 
 
